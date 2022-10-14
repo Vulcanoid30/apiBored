@@ -6,7 +6,7 @@ import Select from "react-select";
 const Test = () => {
   const [datas, getDatas] = useState([{}]);
   const getBerry = async () => {
-    const api = await fetch("http://www.boredapi.com/api/activity/");
+    const api = await fetch("https://www.boredapi.com/api/activity/");
     const getApi = await api.json();
     const set = new Set([getApi]);
     const result = Array.from(set).map((data) => {
