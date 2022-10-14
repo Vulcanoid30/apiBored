@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/apiBored/static/css/main.d95376b8.css",
-    "main.js": "/apiBored/static/js/main.bf157a18.js",
+    "main.js": "/apiBored/static/js/main.4c3ee32c.js",
     "static/js/787.28cb0dcd.chunk.js": "/apiBored/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/apiBored/index.html",
     "main.d95376b8.css.map": "/apiBored/static/css/main.d95376b8.css.map",
-    "main.bf157a18.js.map": "/apiBored/static/js/main.bf157a18.js.map",
+    "main.4c3ee32c.js.map": "/apiBored/static/js/main.4c3ee32c.js.map",
     "787.28cb0dcd.chunk.js.map": "/apiBored/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d95376b8.css",
-    "static/js/main.bf157a18.js"
+    "static/js/main.4c3ee32c.js"
   ]
 }
